@@ -1,16 +1,22 @@
 /*
-	Prologue 1.0 by HTML5 UP
-	html5up.net | @n33co
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
-/*********************************************************************************/
-/* Settings                                                                      */
-/*********************************************************************************/
+	InfoviasBR - Dados abertos sobre trânsito em rodovias federais
+	Copyright 2013 Equipe InfoviasBR (II Concurso de Aplicativos Abertos do MJ/W3C)
+			| Germano Luz: germanoluz@hotmail.com
+			| Fábio Françoso: fabio.francoso@outlook.com
+			| Halaés Nobre: h.nobre@gmail.com
+			| Cássia Sousa: cassinhasousa@hotmail.com
+
+	InfoviasBR é um software livre; você pode redistribui-lo e/ou modifica-lo dentro dos termos da Licença Pública Geral GNU como publicada pela Fundação do Software Livre (FSF); na versão AGPL v.3.
+    InfoviasBR é distribuido na esperança que possa ser  util, mas SEM NENHUMA GARANTIA; sem uma garantia implicita de ADEQUAÇÂO a qualquer MERCADO ou APLICAÇÃO EM PARTICULAR.
+    Veja a Licença Pública Geral GNU para maiores detalhes.
+    Você deve ter recebido uma cópia da Licença Pública Geral GNU junto com este programa, se não, visite: http://www.infoviasbr.com.br/licenca
+	Para obter uma cópia integral do código-fonte visite: http://github.com/infoviasbr
+*/
 
 	var prologue_settings = {
 
-		// skelJS (probably don't need to change anything here unless you know what you're doing)
+	
 			skelJS: {
 				prefix: 'css/style',
 				resetCSS: true,
