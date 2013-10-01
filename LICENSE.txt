@@ -3,7 +3,7 @@ Copyright 2013 Equipe InfoviasBR (II Concurso de Aplicativos Abertos do MJ/W3C)
       | Germano Luz: germanoluz@hotmail.com
       | Fábio Françoso: fabio.francoso@outlook.com
       | Halaés Nobre: h.nobre@gmail.com
-      | Cássia Sousa: cassinhasousa@gmail.com
+      | Cássia Sousa: cassinhasousa@hotmail.com
 
 InfoviasBR é um software livre; você pode redistribui-lo e/ou modifica-lo dentro dos termos da Licença Pública Geral GNU como publicada pela Fundação do Software Livre (FSF); na versão AGPL v.3.
 InfoviasBR é distribuido na esperança que possa ser  util, mas SEM NENHUMA GARANTIA; sem uma garantia implicita de ADEQUAÇÂO a qualquer MERCADO ou APLICAÇÃO EM PARTICULAR.
